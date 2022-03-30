@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewIntentKT</string>
+    <string name="person">person</string>
+</resources>
